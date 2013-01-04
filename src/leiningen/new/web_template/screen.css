@@ -1,0 +1,13 @@
+.wrapper {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.user-agent-header {
+    font-weight: bold;
+}
+
+.user-agent{
+    font-style: italic;
+    font-family:"Lucida Console", monospace
+}
