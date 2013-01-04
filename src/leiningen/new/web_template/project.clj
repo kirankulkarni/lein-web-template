@@ -10,4 +10,5 @@
                  [hiccup "1.0.2"]
                  [ring/ring-core "1.1.6"]
                  [ring/ring-jetty-adapter "1.1.6"]
-                 [compojure "1.1.3"]])
+                 [compojure "1.1.3"]]
+  :main {{ns-name}}.core)
